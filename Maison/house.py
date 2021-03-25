@@ -66,7 +66,3 @@ class House:
         
 
         
-
-
-ny = House(100, "orange", 2)
-paris = House(150, "blue", 3)
