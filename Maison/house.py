@@ -1,4 +1,7 @@
 
+
+```python``
+
 from turtle import *
 
 
@@ -24,6 +27,7 @@ class House:
         """[summary]
 
         Créer un nombre de maison égale au nombre placé en paramètre
+        de la class
         """
 
         for i in range(self.nbrHouse):
@@ -66,3 +70,4 @@ class House:
         
 
         
+ny = House(150, "yellow")
